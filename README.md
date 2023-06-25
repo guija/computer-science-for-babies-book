@@ -1,1 +1,1 @@
-# computer-science-for-babies-book
+# Computer Science for Babies
